@@ -18,6 +18,14 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+<img width="599" height="349" alt="image" src="https://github.com/user-attachments/assets/9acd9886-db7d-412c-8b77-cee71cb80862" />
+<img width="604" height="340" alt="image" src="https://github.com/user-attachments/assets/84cee456-bcc7-466d-80c4-f71137228580" />
+
+![IMG-20251016-WA0039](https://github.com/user-attachments/assets/a76e86ca-bfe6-4368-9e08-d7fa54002e86)
+![IMG-20251016-WA0037](https://github.com/user-attachments/assets/830ec9c2-41c7-4e47-9fd7-53dfc561bc35)
+![IMG-20251016-WA0040](https://github.com/user-attachments/assets/1f21e043-21e1-4bcc-9369-2abbcb549289)
+![IMG-20251016-WA0041](https://github.com/user-attachments/assets/e0169ed2-bdb1-4688-aa57-b5ffaf02d0b8)
+![IMG-20251016-WA0042](https://github.com/user-attachments/assets/3baf9628-d5cc-4858-b47d-e4daf0ace9ff)
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
